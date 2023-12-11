@@ -1,4 +1,7 @@
-## Subject Planner
+# Subject Planner
+
+## Project Prepration:
+**1. [Team Agreement](./Project-Prep/TeamAgreement.md)**
 
 ## Overview:
 The Subject Planner app is designed to help students efficiently manage their academic responsibilities and keep track of their academic performance. The app includes key features such as subject tracking, grade management, agenda for notes, notifications, and a profile overview. It aims to provide a comprehensive solution for students to organize their academic life in a single, user-friendly platform.
