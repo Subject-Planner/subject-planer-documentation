@@ -136,7 +136,7 @@ https://docs.google.com/presentation/d/1Bi9cn-ThGKI30imF3oDF0j35cBj4rdFOWkbNMxCi
 ### PR Review Workflow
 - We will use a PR review workflow:
     - before any merge happen there must be all the group members exist to get full approve .
-    - team member Farah al_aydi will be our "merge master".
+    - team member Saif Yahya will be our "merge master".
     - we will merge about one to two times a day or with every new functionality added .
     - we will try to schedule merging process one in the morning and one at night , and send message on slack.
 
