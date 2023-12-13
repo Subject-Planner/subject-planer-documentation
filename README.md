@@ -10,14 +10,27 @@
  
  - It aims to provide a comprehensive solution for students to organize their academic life in a single, user-friendly platform.
  
- # Wireframes Sequence
+
 # Wireframes Sequence
 
-| Step | Wireframe Name | Wireframe                    |
-|------|----------------|------------------------------|
-| 1    | Login          | ![Login](./asets/login.png)  |
-| 2    | Signup         | ![Signup](./asets/signup.png) |
-| 3    | Verify Email   | ![Verify Email](./asets/verifyEmail.png) |
+# Wireframes Sequence
+
+| Step | Wireframe 1 (Login) | Wireframe 2 (Sign Up) | Wireframe 3 (Verify Email) |
+|------|----------------------|------------------------|-----------------------------|
+| 1    | ![Login](./asets/login.png)  | ![Sign Up](./asets/signup.png) | ![Verify Email](./asets/verifyEmail.png) | 
+
+| Step | Wireframe 4 (home(main)) | Wireframe 5 (search subject) | Wireframe 6 (Add Subject) |
+|------|----------------------|------------------------|-----------------------------|
+| 2    | ![home](./asets/home(main).png)  | ![search ](./asets/search.png) | ![Verify Email](./asets/addNewsubject.png) | 
+
+| Step menu | Wireframe 7 (from main menu icon) | Wireframe 8 (search subject) | Wireframe 9 (add subject grades) |
+|------|----------------------|------------------------|-----------------------------|
+| 3   | ![home](./asets/menu-icon.png)  | ![search ](./asets/Calender.png) | ![addsubject grades](./asets/addsubjectgrades.png) | 
+
+|  |  | Wireframe 10 (profile) | |
+|------|----------------------|------------------------|-----------------------------|
+|   |   | ![profile ](./asets/profile.png) |  | 
+
 
 # User Stories
 
