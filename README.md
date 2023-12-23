@@ -136,7 +136,22 @@ Entity: Grade
   - overallAverage (Float)
 
   # Database Schema Diagram
-  ![Database Schema Diagram](./asets/DB%20Schema.png)
+  ![Database Schema Diagram](./asets/sp_schema.png)
+
+  # App Activities
+  ![signup](./asets/signup_demo.jpeg)
+  ![login](./asets/login_demo.jpeg)
+  ![profile](./asets/profile_demo.jpeg)
+  ![subjects](./asets/subjects_demo.jpeg)
+  ![subject details1](./asets/subject_details1.jpeg)
+  ![subject details 2](./asets/subject_details2.jpeg)
+  ![add subject](./asets/add_subject.jpeg)
+  ![agenda](./asets/agenda_demo.jpeg)
+  ![calendar](./asets/calendar_demo.jpeg)
+
+
+
+
 
 
 
